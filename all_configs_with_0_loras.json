@@ -1,0 +1,206 @@
+[
+    {
+        "loras": [],
+        "weights": [
+            1,
+            1
+        ],
+        "prompts": [
+            "ral-feathercoat"
+        ],
+        "trials": 1,
+        "images_path": "./output/no-loras/",
+        "seed": 42,
+        "pipeline_kwargs": {
+            "num_inference_steps": 1,
+            "guidance_scale": 0
+        }
+    },
+    {
+        "loras": [],
+        "weights": [
+            1,
+            1
+        ],
+        "prompts": [
+            "drawix6"
+        ],
+        "trials": 1,
+        "images_path": "./output/no-loras/",
+        "seed": 42,
+        "pipeline_kwargs": {
+            "num_inference_steps": 1,
+            "guidance_scale": 0
+        }
+    },
+    {
+        "loras": [],
+        "weights": [
+            1,
+            1
+        ],
+        "prompts": [
+            "pixar style"
+        ],
+        "trials": 1,
+        "images_path": "./output/no-loras/",
+        "seed": 42,
+        "pipeline_kwargs": {
+            "num_inference_steps": 1,
+            "guidance_scale": 0
+        }
+    },
+    {
+        "loras": [],
+        "weights": [
+            1,
+            1
+        ],
+        "prompts": [
+            "Costume ShoshiZohar"
+        ],
+        "trials": 1,
+        "images_path": "./output/no-loras/",
+        "seed": 42,
+        "pipeline_kwargs": {
+            "num_inference_steps": 1,
+            "guidance_scale": 0
+        }
+    },
+    {
+        "loras": [],
+        "weights": [
+            1,
+            1
+        ],
+        "prompts": [
+            "cyborg"
+        ],
+        "trials": 1,
+        "images_path": "./output/no-loras/",
+        "seed": 42,
+        "pipeline_kwargs": {
+            "num_inference_steps": 1,
+            "guidance_scale": 0
+        }
+    },
+    {
+        "loras": [],
+        "weights": [
+            1,
+            1
+        ],
+        "prompts": [
+            "cinematicpainting"
+        ],
+        "trials": 1,
+        "images_path": "./output/no-loras/",
+        "seed": 42,
+        "pipeline_kwargs": {
+            "num_inference_steps": 1,
+            "guidance_scale": 0
+        }
+    },
+    {
+        "loras": [],
+        "weights": [
+            1,
+            1
+        ],
+        "prompts": [
+            "BJ_Sewing_doll"
+        ],
+        "trials": 1,
+        "images_path": "./output/no-loras/",
+        "seed": 42,
+        "pipeline_kwargs": {
+            "num_inference_steps": 1,
+            "guidance_scale": 0
+        }
+    },
+    {
+        "loras": [],
+        "weights": [
+            1,
+            1
+        ],
+        "prompts": [
+            "symmetrical"
+        ],
+        "trials": 1,
+        "images_path": "./output/no-loras/",
+        "seed": 42,
+        "pipeline_kwargs": {
+            "num_inference_steps": 1,
+            "guidance_scale": 0
+        }
+    },
+    {
+        "loras": [],
+        "weights": [
+            1,
+            1
+        ],
+        "prompts": [
+            "Isometric_Setting"
+        ],
+        "trials": 1,
+        "images_path": "./output/no-loras/",
+        "seed": 42,
+        "pipeline_kwargs": {
+            "num_inference_steps": 1,
+            "guidance_scale": 0
+        }
+    },
+    {
+        "loras": [],
+        "weights": [
+            1,
+            1
+        ],
+        "prompts": [
+            "vintage_p_style"
+        ],
+        "trials": 1,
+        "images_path": "./output/no-loras/",
+        "seed": 42,
+        "pipeline_kwargs": {
+            "num_inference_steps": 1,
+            "guidance_scale": 0
+        }
+    },
+    {
+        "loras": [],
+        "weights": [
+            1,
+            1
+        ],
+        "prompts": [
+            "ral-friedegg"
+        ],
+        "trials": 1,
+        "images_path": "./output/no-loras/",
+        "seed": 42,
+        "pipeline_kwargs": {
+            "num_inference_steps": 1,
+            "guidance_scale": 0
+        }
+    },
+    {
+        "loras": [],
+        "weights": [
+            1,
+            1
+        ],
+        "prompts": [
+            "airpods_max "
+        ],
+        "trials": 1,
+        "images_path": "./output/no-loras/",
+        "seed": 42,
+        "pipeline_kwargs": {
+            "num_inference_steps": 1,
+            "guidance_scale": 0
+        }
+    }
+]
