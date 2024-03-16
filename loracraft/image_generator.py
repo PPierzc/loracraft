@@ -69,7 +69,7 @@ def run_lora(config):
     run.finish()
 
 
-configs = json.load(sys.argv[1])
+configs = json.load(open(sys.argv[1]))
 
 rank_id = 0
 world_size = 1
