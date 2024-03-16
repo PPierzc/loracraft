@@ -1,14 +1,16 @@
 import os
 import pandas as pd
 import torch
+import wandb
+from loracraft.api import log_images, query_runs, get_images_from_run
+import wandb
 
+def save_image(image, config, prompt=None, trial=None, run=None, rank=0):
+    # images_path = config['images_path']
+    # image.save(f'{images_path}/{prompt}_{trial}_{rank}.png')
 
-
-
-
-def save_image(image, config, prompt=None, trial=None):
-    images_path = config['images_path']
-    image.save(f'{images_path}/{prompt}{trial}.png')
+    if run:
+        log_images(run, [image])
 
 
 def load_lora(model, config):

@@ -11,3 +11,6 @@ def get_pipeline():
     pipe.to("cuda")
 
     return pipe
+
+if __name__ == '__main__':
+    pipe = get_pipeline()
