@@ -1,0 +1,230 @@
+[
+    {
+        "loras": [
+            "SewingDoll"
+        ],
+        "weights": [
+            1,
+            1
+        ],
+        "prompts": [
+            "BJ_Sewing_doll"
+        ],
+        "trials": 1,
+        "images_path": "./output/sewingdoll/",
+        "seed": 42,
+        "pipeline_kwargs": {
+            "num_inference_steps": 1,
+            "guidance_scale": 0
+        }
+    },
+    {
+        "loras": [
+            "CinematicPainting"
+        ],
+        "weights": [
+            1,
+            1
+        ],
+        "prompts": [
+            "cinematicpainting"
+        ],
+        "trials": 1,
+        "images_path": "./output/cinematicpainting/",
+        "seed": 42,
+        "pipeline_kwargs": {
+            "num_inference_steps": 1,
+            "guidance_scale": 0
+        }
+    },
+    {
+        "loras": [
+            "PixarXL"
+        ],
+        "weights": [
+            1,
+            1
+        ],
+        "prompts": [
+            "pixar style"
+        ],
+        "trials": 1,
+        "images_path": "./output/pixarxl/",
+        "seed": 42,
+        "pipeline_kwargs": {
+            "num_inference_steps": 1,
+            "guidance_scale": 0
+        }
+    },
+    {
+        "loras": [
+            "FriedEgg"
+        ],
+        "weights": [
+            1,
+            1
+        ],
+        "prompts": [
+            "ral-friedegg"
+        ],
+        "trials": 1,
+        "images_path": "./output/friedegg/",
+        "seed": 42,
+        "pipeline_kwargs": {
+            "num_inference_steps": 1,
+            "guidance_scale": 0
+        }
+    },
+    {
+        "loras": [
+            "FacelessCyborgs"
+        ],
+        "weights": [
+            1,
+            1
+        ],
+        "prompts": [
+            "cyborg"
+        ],
+        "trials": 1,
+        "images_path": "./output/facelesscyborgs/",
+        "seed": 42,
+        "pipeline_kwargs": {
+            "num_inference_steps": 1,
+            "guidance_scale": 0
+        }
+    },
+    {
+        "loras": [
+            "Drawing"
+        ],
+        "weights": [
+            1,
+            1
+        ],
+        "prompts": [
+            "drawix6"
+        ],
+        "trials": 1,
+        "images_path": "./output/drawing/",
+        "seed": 42,
+        "pipeline_kwargs": {
+            "num_inference_steps": 1,
+            "guidance_scale": 0
+        }
+    },
+    {
+        "loras": [
+            "AirPodsMax"
+        ],
+        "weights": [
+            1,
+            1
+        ],
+        "prompts": [
+            "airpods_max "
+        ],
+        "trials": 1,
+        "images_path": "./output/airpodsmax/",
+        "seed": 42,
+        "pipeline_kwargs": {
+            "num_inference_steps": 1,
+            "guidance_scale": 0
+        }
+    },
+    {
+        "loras": [
+            "Isometric"
+        ],
+        "weights": [
+            1,
+            1
+        ],
+        "prompts": [
+            "Isometric_Setting"
+        ],
+        "trials": 1,
+        "images_path": "./output/isometric/",
+        "seed": 42,
+        "pipeline_kwargs": {
+            "num_inference_steps": 1,
+            "guidance_scale": 0
+        }
+    },
+    {
+        "loras": [
+            "VintagePortrait"
+        ],
+        "weights": [
+            1,
+            1
+        ],
+        "prompts": [
+            "vintage_p_style"
+        ],
+        "trials": 1,
+        "images_path": "./output/vintageportrait/",
+        "seed": 42,
+        "pipeline_kwargs": {
+            "num_inference_steps": 1,
+            "guidance_scale": 0
+        }
+    },
+    {
+        "loras": [
+            "SillyCostume"
+        ],
+        "weights": [
+            1,
+            1
+        ],
+        "prompts": [
+            "Costume ShoshiZohar"
+        ],
+        "trials": 1,
+        "images_path": "./output/sillycostume/",
+        "seed": 42,
+        "pipeline_kwargs": {
+            "num_inference_steps": 1,
+            "guidance_scale": 0
+        }
+    },
+    {
+        "loras": [
+            "Symmetrical"
+        ],
+        "weights": [
+            1,
+            1
+        ],
+        "prompts": [
+            "symmetrical"
+        ],
+        "trials": 1,
+        "images_path": "./output/symmetrical/",
+        "seed": 42,
+        "pipeline_kwargs": {
+            "num_inference_steps": 1,
+            "guidance_scale": 0
+        }
+    },
+    {
+        "loras": [
+            "Federkleid"
+        ],
+        "weights": [
+            1,
+            1
+        ],
+        "prompts": [
+            "ral-feathercoat"
+        ],
+        "trials": 1,
+        "images_path": "./output/federkleid/",
+        "seed": 42,
+        "pipeline_kwargs": {
+            "num_inference_steps": 1,
+            "guidance_scale": 0
+        }
+    }
+]
