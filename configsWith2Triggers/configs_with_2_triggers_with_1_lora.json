@@ -1,0 +1,182 @@
+[
+    {
+        "loras": [
+            "SewingDoll"
+        ],
+        "weights": [
+            1
+        ],
+        "prompts": [
+            "BJ_Sewing_doll",
+            "cinematicpainting"
+        ],
+        "trials": 1,
+        "images_path": "./output/sewingdoll/",
+        "seed": 42,
+        "pipeline_kwargs": {
+            "num_inference_steps": 1,
+            "guidance_scale": 0
+        }
+    },
+    {
+        "loras": [
+            "CinematicPainting"
+        ],
+        "weights": [],
+        "prompts": [
+            "BJ_Sewing_doll",
+            "cinematicpainting"
+        ],
+        "trials": 1,
+        "images_path": "./output/cinematicpainting/",
+        "seed": 42,
+        "pipeline_kwargs": {
+            "num_inference_steps": 1,
+            "guidance_scale": 0
+        }
+    },
+    {
+        "loras": [
+            "PixarXL"
+        ],
+        "weights": [
+            1
+        ],
+        "prompts": [
+            "pixar style",
+            "ral-friedegg"
+        ],
+        "trials": 1,
+        "images_path": "./output/pixarxl/",
+        "seed": 42,
+        "pipeline_kwargs": {
+            "num_inference_steps": 1,
+            "guidance_scale": 0
+        }
+    },
+    {
+        "loras": [
+            "FriedEgg"
+        ],
+        "weights": [],
+        "prompts": [
+            "pixar style",
+            "ral-friedegg"
+        ],
+        "trials": 1,
+        "images_path": "./output/friedegg/",
+        "seed": 42,
+        "pipeline_kwargs": {
+            "num_inference_steps": 1,
+            "guidance_scale": 0
+        }
+    },
+    {
+        "loras": [
+            "FacelessCyborgs"
+        ],
+        "weights": [
+            1
+        ],
+        "prompts": [
+            "cyborg",
+            "drawix6"
+        ],
+        "trials": 1,
+        "images_path": "./output/facelesscyborgs/",
+        "seed": 42,
+        "pipeline_kwargs": {
+            "num_inference_steps": 1,
+            "guidance_scale": 0
+        }
+    },
+    {
+        "loras": [
+            "Drawing"
+        ],
+        "weights": [],
+        "prompts": [
+            "cyborg",
+            "drawix6"
+        ],
+        "trials": 1,
+        "images_path": "./output/drawing/",
+        "seed": 42,
+        "pipeline_kwargs": {
+            "num_inference_steps": 1,
+            "guidance_scale": 0
+        }
+    },
+    {
+        "loras": [
+            "AirPodsMax"
+        ],
+        "weights": [
+            1
+        ],
+        "prompts": [
+            "airpods_max ",
+            "Isometric_Setting"
+        ],
+        "trials": 1,
+        "images_path": "./output/airpodsmax/",
+        "seed": 42,
+        "pipeline_kwargs": {
+            "num_inference_steps": 1,
+            "guidance_scale": 0
+        }
+    },
+    {
+        "loras": [
+            "Isometric"
+        ],
+        "weights": [],
+        "prompts": [
+            "airpods_max ",
+            "Isometric_Setting"
+        ],
+        "trials": 1,
+        "images_path": "./output/isometric/",
+        "seed": 42,
+        "pipeline_kwargs": {
+            "num_inference_steps": 1,
+            "guidance_scale": 0
+        }
+    },
+    {
+        "loras": [
+            "VintagePortrait"
+        ],
+        "weights": [
+            1
+        ],
+        "prompts": [
+            "vintage_p_style",
+            "Costume ShoshiZohar"
+        ],
+        "trials": 1,
+        "images_path": "./output/vintageportrait/",
+        "seed": 42,
+        "pipeline_kwargs": {
+            "num_inference_steps": 1,
+            "guidance_scale": 0
+        }
+    },
+    {
+        "loras": [
+            "SillyCostume"
+        ],
+        "weights": [],
+        "prompts": [
+            "vintage_p_style",
+            "Costume ShoshiZohar"
+        ],
+        "trials": 1,
+        "images_path": "./output/sillycostume/",
+        "seed": 42,
+        "pipeline_kwargs": {
+            "num_inference_steps": 1,
+            "guidance_scale": 0
+        }
+    }
+]
