@@ -73,6 +73,6 @@ def clip_score(true_images, gen_images, n_classes=4):
     outputs = model(**inputs)
     outputs.image_embeds.shape
 
-    scores = F.cosine_similarity(outputs.image_embeds[:len(true_images)].unsqueeze(1), outputs.image_embeds[len(true_images):], dim=-1)
-    scores = scores.reshape(len(true_images), n_classes, -1).mean([0, 2])
-    return scores
+    scores = torch.cosine_similarity(outputs.image_embeds[:len(true_images)].unsqueeze(1), outputs.image_embeds[len(true_images):], dim=-1)
+    #scores = scores.reshape(len(true_images), n_classes, -1).mean([0, 2])
+    return float(scores[0][0].detach())
