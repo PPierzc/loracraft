@@ -2,10 +2,7 @@
     {
         "loras": [],
         "weights": [],
-        "prompts": [
-            "BJ_Sewing_doll",
-            "cinematicpainting"
-        ],
+        "prompts": "BJ_Sewing_doll;cinematicpainting",
         "trials": 1,
         "images_path": "./output/no-loras-sewingdoll-cinematicpainting/",
         "seed": 42,
@@ -17,10 +14,7 @@
     {
         "loras": [],
         "weights": [],
-        "prompts": [
-            "pixar style",
-            "ral-friedegg"
-        ],
+        "prompts": "pixar style;ral-friedegg",
         "trials": 1,
         "images_path": "./output/no-loras-pixarxl-friedegg/",
         "seed": 42,
@@ -32,10 +26,7 @@
     {
         "loras": [],
         "weights": [],
-        "prompts": [
-            "cyborg",
-            "drawix6"
-        ],
+        "prompts": "cyborg;drawix6",
         "trials": 1,
         "images_path": "./output/no-loras-facelesscyborgs-drawing/",
         "seed": 42,
@@ -47,10 +38,7 @@
     {
         "loras": [],
         "weights": [],
-        "prompts": [
-            "airpods_max ",
-            "Isometric_Setting"
-        ],
+        "prompts": "airpods_max ;Isometric_Setting",
         "trials": 1,
         "images_path": "./output/no-loras-airpodsmax-isometric/",
         "seed": 42,
@@ -62,10 +50,7 @@
     {
         "loras": [],
         "weights": [],
-        "prompts": [
-            "vintage_p_style",
-            "Costume ShoshiZohar"
-        ],
+        "prompts": "vintage_p_style;Costume ShoshiZohar",
         "trials": 1,
         "images_path": "./output/no-loras-vintageportrait-sillycostume/",
         "seed": 42,

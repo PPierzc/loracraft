@@ -29,7 +29,7 @@ def generate_configs(loras_db, num_loras):
 
     if num_loras == 0:
         for i in range(0, 10, 2):
-            triggers_pair = [loras_db[loras[i]]['triggers'][0], loras_db[loras[i + 1]]['triggers'][0]]
+            triggers_pair = loras_db[loras[i]]['triggers'][0] + ";" + loras_db[loras[i + 1]]['triggers'][0]
 
             config = copy.deepcopy(config_template)
             config['loras'] = []
@@ -39,7 +39,7 @@ def generate_configs(loras_db, num_loras):
             configs.append(config)
     if num_loras == 1:
         for i in range(0, 10, 2):
-            triggers_pair = [loras_db[loras[i]]['triggers'][0], loras_db[loras[i + 1]]['triggers'][0]]
+            triggers_pair = loras_db[loras[i]]['triggers'][0] + ";" + loras_db[loras[i + 1]]['triggers'][0]
 
             config = copy.deepcopy(config_template)
             config['loras'] = [loras[i]]
@@ -57,7 +57,7 @@ def generate_configs(loras_db, num_loras):
             configs.append(config2)
     if num_loras == 2:
         for i in range(0, 10, 2):
-            triggers_pair = [loras_db[loras[i]]['triggers'][0], loras_db[loras[i + 1]]['triggers'][0]]
+            triggers_pair = loras_db[loras[i]]['triggers'][0] + ";" + loras_db[loras[i + 1]]['triggers'][0]
 
             config = copy.deepcopy(config_template)
             config['loras'] = [loras[i], loras[i + 1]]
