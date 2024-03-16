@@ -1,5 +1,5 @@
-# import sys
-# sys.append('../')
+import sys
+sys.path.append('../')
 
 from tqdm import tqdm
 import json
@@ -69,12 +69,13 @@ def run_lora(config):
     run.finish()
 
 
-configs = json.load(open('../configsWith2Triggers/configs_with_2_triggers_with_1_loras.json', 'r'))
+configs = json.load(open(sys.argv[1]))
 
 rank_id = 0
 world_size = 1
 
 for idx, config in tqdm(enumerate(configs)):
-    config["version"] = 2
+    config["version"] = sys.argv[2]
+    config["config"] = sys.argv[1]
     if idx % world_size == rank_id:
         run_lora(config)
