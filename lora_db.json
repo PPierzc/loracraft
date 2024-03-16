@@ -1,0 +1,132 @@
+{
+    "SewingDoll": {
+        "wget_link": "https://civitai.com/api/download/models/158964?type=Model&format=SafeTensor",
+        "triggers": [
+            "BJ_Sewing_doll"
+        ],
+        "category": "Character",
+        "metadata": {
+            "civil_link": "https://civitai.com/models/138619/sdxlsewingdoll"
+        }
+    },
+    "CinematicPainting": {
+        "wget_link": "https://civitai.com/api/download/models/288399?type=Model&format=SafeTensor",
+        "triggers": [
+            "cinematicpainting"
+        ],
+        "category": "Style",
+        "metadata": {
+            "civil_link": "https://civitai.com/models/173332/cinematicpaintingxl"
+        }
+    },
+    "PixarXL": {
+        "wget_link": "https://civitai.com/api/download/models/211735?type=Model&format=SafeTensor",
+        "triggers": [
+            "pixar style"
+        ],
+        "category": "Style",
+        "metadata": {
+            "civil_link": "https://civitai.com/models/188525/pixar-style-sdxl"
+        }
+    },
+    "FriedEgg": {
+        "wget_link": "https://civitai.com/api/download/models/288399?type=Model&format=SafeTensor",
+        "triggers": [
+            "ral-friedegg"
+        ],
+        "category": "Style",
+        "metadata": {
+            "civil_link": "https://civitai.com/models/255828/fried-egg-style-lora-15sdxl?modelVersionId=288399"
+        }
+    },
+    "Details": {
+        "wget_link": "https://civitai.com/api/download/models/293991?type=Model&format=SafeTensor",
+        "triggers": [
+            ""
+        ],
+        "category": "Style",
+        "metadata": {
+            "civil_link": "https://civitai.com/models/134338/sdxl-faetastic-details?modelVersionId=293991"
+        }
+    },
+    "FacelessCyborgs": {
+        "wget_link": "https://civitai.com/api/download/models/291410?type=Model&format=SafeTensor",
+        "triggers": [
+            "cyborg"
+        ],
+        "category": "Concept",
+        "metadata": {
+            "civil_link": "https://civitai.com/models/258439/faceless-cyborgs?modelVersionId=291410"
+        }
+    },
+    "Drawing": {
+        "wget_link": "https://civitai.com/api/download/models/287361?type=Model&format=SafeTensor",
+        "triggers": [
+            "drawix6"
+        ],
+        "category": "Style",
+        "metadata": {
+            "civil_link": "https://civitai.com/models/254924/drawix-no-6?modelVersionId=287361"
+        }
+    },
+    "AirPodsMax": {
+        "wget_link": "https://civitai.com/api/download/models/287054?type=Model&format=SafeTensor",
+        "triggers": [
+            "airpods_max "
+        ],
+        "category": "Clothing",
+        "metadata": {
+            "civil_link": "https://civitai.com/models/131136/airpods-max-lora?modelVersionId=287054"
+        }
+    },
+    "Isometric": {
+        "wget_link": "https://civitai.com/api/download/models/255347?type=Model&format=SafeTensor",
+        "triggers": [
+            "Isometric_Setting"
+        ],
+        "category": "Buildings",
+        "metadata": {
+            "civil_link": "https://civitai.com/models/118775/stylized-setting-isometric-sdxl-and-sd15?modelVersionId=255347"
+        }
+    },
+    "VintagePortrait": {
+        "wget_link": "https://civitai.com/api/download/models/285837?type=Model&format=SafeTensor",
+        "triggers": [
+            "vintage_p_style"
+        ],
+        "category": "Style",
+        "metadata": {
+            "civil_link": "https://civitai.com/models/253577/vintage-portrait-art-sdxl?modelVersionId=285837"
+        }
+    },
+    "SillyCostume": {
+        "wget_link": "https://civitai.com/api/download/models/280209?type=Model&format=SafeTensor",
+        "triggers": [
+            "Costume ShoshiZohar"
+        ],
+        "category": "Clothing",
+        "metadata": {
+            "civil_link": "https://civitai.com/models/248332/sdxl-silly-costume-catalog-lora?modelVersionId=280209"
+        }
+    },
+    "Symmetrical": {
+        "wget_link": "https://civitai.com/api/download/models/279082?type=Model&format=SafeTensor",
+        "triggers": [
+            "symmetrical"
+        ],
+        "category": "Concept",
+        "metadata": {
+            "civil_link": "https://civitai.com/models/247348/symmetrical-sliders-ntcaixyz?modelVersionId=279082"
+        }
+    },
+    "Federkleid": {
+        "wget_link": "https://civitai.com/api/download/models/242189?type=Model&format=SafeTensor",
+        "triggers": [
+            "ral-feathercoat"
+        ],
+        "category": "Clothing",
+        "metadata": {
+            "civil_link": "https://civitai.com/models/214969/federkleid-lora-15sdxl?modelVersionId=242189"
+        }
+    }
+}

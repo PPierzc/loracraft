@@ -4,3 +4,6 @@ xformers
 tomesd
 accelerate
 peft
+torchvision
+scipy
+wandb
