@@ -1,0 +1,204 @@
+,0,1,2
+0,['ral-feathercoat'],"['Federkleid', 'Isometric', 'Symmetrical']",0.9318639636039734
+1,['ral-feathercoat'],"['Federkleid', 'AirPodsMax', 'Symmetrical']",0.9451844692230225
+2,['ral-feathercoat'],"['Federkleid', 'Drawing', 'Isometric']",0.9783095121383667
+3,['ral-feathercoat'],"['Federkleid', 'FacelessCyborgs', 'SillyCostume']",0.926949679851532
+4,['ral-feathercoat'],"['Federkleid', 'FacelessCyborgs', 'Drawing']",0.9461163282394409
+5,['ral-feathercoat'],"['Federkleid', 'Details', 'VintagePortrait']",0.9530844688415527
+6,['ral-feathercoat'],"['Federkleid', 'Details', 'FacelessCyborgs']",0.9346947073936462
+7,['ral-feathercoat'],"['Federkleid', 'FriedEgg', 'VintagePortrait']",0.9382951259613037
+8,['ral-feathercoat'],"['Federkleid', 'FriedEgg', 'FacelessCyborgs']",0.8930960893630981
+9,['ral-feathercoat'],"['Federkleid', 'PixarXL', 'SillyCostume']",0.8329960107803345
+10,['ral-feathercoat'],"['Federkleid', 'PixarXL', 'Drawing']",0.9719680547714233
+11,['ral-feathercoat'],"['Federkleid', 'CinematicPainting', 'Isometric']",0.9423230290412903
+12,['ral-feathercoat'],"['Federkleid', 'CinematicPainting', 'Details']",0.897297739982605
+13,['drawix6'],"['Drawing', 'SillyCostume', 'Federkleid']",0.544600248336792
+14,['drawix6'],"['Drawing', 'VintagePortrait', 'SillyCostume']",0.6458740234375
+15,['drawix6'],"['Drawing', 'Isometric', 'VintagePortrait']",0.8080506920814514
+16,['drawix6'],"['Drawing', 'AirPodsMax', 'VintagePortrait']",0.7785852551460266
+17,['drawix6'],"['Drawing', 'FacelessCyborgs', 'Federkleid']",0.8094942569732666
+18,['drawix6'],"['Drawing', 'FacelessCyborgs', 'Isometric']",0.7748650908470154
+19,['drawix6'],"['Drawing', 'Details', 'Symmetrical']",0.7917628288269043
+20,['drawix6'],"['Drawing', 'Details', 'AirPodsMax']",0.811643660068512
+21,['drawix6'],"['Drawing', 'FriedEgg', 'Symmetrical']",0.7868829369544983
+22,['drawix6'],"['Drawing', 'FriedEgg', 'AirPodsMax']",0.6507230401039124
+23,['drawix6'],"['Drawing', 'PixarXL', 'Federkleid']",0.721564769744873
+24,['drawix6'],"['Drawing', 'PixarXL', 'Isometric']",0.7187554836273193
+25,['drawix6'],"['Drawing', 'PixarXL', 'Details']",0.7569966316223145
+26,['drawix6'],"['Drawing', 'CinematicPainting', 'SillyCostume']",0.6215099096298218
+27,['drawix6'],"['Drawing', 'CinematicPainting', 'PixarXL']",0.7776735424995422
+28,['pixar style'],"['PixarXL', 'SillyCostume', 'Federkleid']",0.4899054169654846
+29,['pixar style'],"['PixarXL', 'VintagePortrait', 'SillyCostume']",0.9340658187866211
+30,['pixar style'],"['PixarXL', 'Isometric', 'VintagePortrait']",0.9615758061408997
+31,['pixar style'],"['PixarXL', 'AirPodsMax', 'VintagePortrait']",0.8731719851493835
+32,['pixar style'],"['PixarXL', 'Drawing', 'SillyCostume']",0.9580188393592834
+33,['pixar style'],"['PixarXL', 'FacelessCyborgs', 'Federkleid']",0.923956036567688
+34,['pixar style'],"['PixarXL', 'FacelessCyborgs', 'Isometric']",0.9322956800460815
+35,['pixar style'],"['PixarXL', 'Details', 'Symmetrical']",0.9290467500686646
+36,['pixar style'],"['PixarXL', 'Details', 'AirPodsMax']",0.8644944429397583
+37,['pixar style'],"['PixarXL', 'FriedEgg', 'Symmetrical']",0.8394654989242554
+38,['pixar style'],"['PixarXL', 'FriedEgg', 'AirPodsMax']",0.9091483950614929
+39,['pixar style'],"['PixarXL', 'CinematicPainting', 'SillyCostume']",0.8281886577606201
+40,['pixar style'],"['PixarXL', 'CinematicPainting', 'Drawing']",0.908737063407898
+41,['Costume ShoshiZohar'],"['SillyCostume', 'VintagePortrait', 'Federkleid']",0.7106837034225464
+42,['Costume ShoshiZohar'],"['SillyCostume', 'Isometric', 'Symmetrical']",0.7105701565742493
+43,['Costume ShoshiZohar'],"['SillyCostume', 'AirPodsMax', 'Symmetrical']",0.8222974538803101
+44,['Costume ShoshiZohar'],"['SillyCostume', 'Drawing', 'Federkleid']",0.8278331160545349
+45,['Costume ShoshiZohar'],"['SillyCostume', 'Drawing', 'Isometric']",0.6835243105888367
+46,['Costume ShoshiZohar'],"['SillyCostume', 'FacelessCyborgs', 'Drawing']",0.8911741375923157
+47,['Costume ShoshiZohar'],"['SillyCostume', 'Details', 'VintagePortrait']",0.9057490825653076
+48,['Costume ShoshiZohar'],"['SillyCostume', 'Details', 'FacelessCyborgs']",0.8007971048355103
+49,['Costume ShoshiZohar'],"['SillyCostume', 'FriedEgg', 'VintagePortrait']",0.9569426774978638
+50,['Costume ShoshiZohar'],"['SillyCostume', 'FriedEgg', 'FacelessCyborgs']",0.6734002232551575
+51,['Costume ShoshiZohar'],"['SillyCostume', 'PixarXL', 'Drawing']",0.9620601534843445
+52,['Costume ShoshiZohar'],"['SillyCostume', 'CinematicPainting', 'Federkleid']",0.8248791694641113
+53,['Costume ShoshiZohar'],"['SillyCostume', 'CinematicPainting', 'Isometric']",0.7036986947059631
+54,['Costume ShoshiZohar'],"['SillyCostume', 'CinematicPainting', 'Details']",0.8728659749031067
+55,['cyborg'],"['FacelessCyborgs', 'VintagePortrait', 'Federkleid']",0.9539417624473572
+56,['cyborg'],"['FacelessCyborgs', 'Isometric', 'Symmetrical']",0.9669315218925476
+57,['cyborg'],"['FacelessCyborgs', 'AirPodsMax', 'Symmetrical']",0.9718956351280212
+58,['cyborg'],"['FacelessCyborgs', 'Drawing', 'Federkleid']",0.9475789666175842
+59,['cyborg'],"['FacelessCyborgs', 'Drawing', 'Isometric']",0.9589250087738037
+60,['cyborg'],"['FacelessCyborgs', 'Details', 'VintagePortrait']",0.9593009948730469
+61,['cyborg'],"['FacelessCyborgs', 'FriedEgg', 'VintagePortrait']",0.9715299010276794
+62,['cyborg'],"['FacelessCyborgs', 'PixarXL', 'SillyCostume']",0.8793843388557434
+63,['cyborg'],"['FacelessCyborgs', 'PixarXL', 'Drawing']",0.9503697752952576
+64,['cyborg'],"['FacelessCyborgs', 'CinematicPainting', 'Federkleid']",0.9560229182243347
+65,['cyborg'],"['FacelessCyborgs', 'CinematicPainting', 'Isometric']",0.9690459966659546
+66,['cyborg'],"['FacelessCyborgs', 'CinematicPainting', 'Details']",0.9260151386260986
+67,['cinematicpainting'],"['CinematicPainting', 'SillyCostume', 'Federkleid']",0.9354649782180786
+68,['cinematicpainting'],"['CinematicPainting', 'VintagePortrait', 'Federkleid']",0.9129897356033325
+69,['cinematicpainting'],"['CinematicPainting', 'VintagePortrait', 'SillyCostume']",0.8448465466499329
+70,['cinematicpainting'],"['CinematicPainting', 'Isometric', 'Symmetrical']",0.9448014497756958
+71,['cinematicpainting'],"['CinematicPainting', 'Isometric', 'VintagePortrait']",0.9415677785873413
+72,['cinematicpainting'],"['CinematicPainting', 'AirPodsMax', 'Symmetrical']",0.8578715324401855
+73,['cinematicpainting'],"['CinematicPainting', 'AirPodsMax', 'VintagePortrait']",0.9248387813568115
+74,['cinematicpainting'],"['CinematicPainting', 'Drawing', 'Federkleid']",0.9457393288612366
+75,['cinematicpainting'],"['CinematicPainting', 'Drawing', 'SillyCostume']",0.9656533002853394
+76,['cinematicpainting'],"['CinematicPainting', 'Drawing', 'Isometric']",0.8922351598739624
+77,['cinematicpainting'],"['CinematicPainting', 'FacelessCyborgs', 'Federkleid']",0.9056506156921387
+78,['cinematicpainting'],"['CinematicPainting', 'FacelessCyborgs', 'SillyCostume']",0.9536716938018799
+79,['cinematicpainting'],"['CinematicPainting', 'FacelessCyborgs', 'Isometric']",0.8682668209075928
+80,['cinematicpainting'],"['CinematicPainting', 'FacelessCyborgs', 'Drawing']",0.9095504283905029
+81,['cinematicpainting'],"['CinematicPainting', 'Details', 'Symmetrical']",0.9258735179901123
+82,['cinematicpainting'],"['CinematicPainting', 'Details', 'VintagePortrait']",0.9145774245262146
+83,['cinematicpainting'],"['CinematicPainting', 'Details', 'AirPodsMax']",0.9547138810157776
+84,['cinematicpainting'],"['CinematicPainting', 'Details', 'FacelessCyborgs']",0.9333098530769348
+85,['cinematicpainting'],"['CinematicPainting', 'FriedEgg', 'Symmetrical']",0.9122244715690613
+86,['cinematicpainting'],"['CinematicPainting', 'FriedEgg', 'VintagePortrait']",0.8930913805961609
+87,['cinematicpainting'],"['CinematicPainting', 'FriedEgg', 'AirPodsMax']",0.9347977042198181
+88,['cinematicpainting'],"['CinematicPainting', 'Details', 'AirPodsMax']",0.9547138810157776
+89,['cinematicpainting'],"['CinematicPainting', 'Details', 'FacelessCyborgs']",0.9333098530769348
+90,['cinematicpainting'],"['CinematicPainting', 'FriedEgg', 'Symmetrical']",0.9122244715690613
+91,['cinematicpainting'],"['CinematicPainting', 'FriedEgg', 'VintagePortrait']",0.8930913805961609
+92,['cinematicpainting'],"['CinematicPainting', 'FriedEgg', 'AirPodsMax']",0.9347977042198181
+93,['cinematicpainting'],"['CinematicPainting', 'FriedEgg', 'FacelessCyborgs']",0.8795297145843506
+94,['cinematicpainting'],"['CinematicPainting', 'PixarXL', 'Federkleid']",0.8620679378509521
+95,['cinematicpainting'],"['CinematicPainting', 'PixarXL', 'SillyCostume']",0.9428834319114685
+96,['cinematicpainting'],"['CinematicPainting', 'PixarXL', 'Isometric']",0.8521943688392639
+97,['cinematicpainting'],"['CinematicPainting', 'PixarXL', 'FacelessCyborgs']",0.8751652240753174
+98,['cinematicpainting'],"['CinematicPainting', 'PixarXL', 'FriedEgg']",0.926445722579956
+99,['cinematicpainting'],"['CinematicPainting', 'VintagePortrait', 'Federkleid']",0.843513011932373
+100,['cinematicpainting'],"['CinematicPainting', 'Isometric', 'Symmetrical']",0.870140552520752
+101,['cinematicpainting'],"['CinematicPainting', 'AirPodsMax', 'Symmetrical']",0.8938713073730469
+102,['cinematicpainting'],"['CinematicPainting', 'Drawing', 'Federkleid']",0.8643986582756042
+103,['cinematicpainting'],"['CinematicPainting', 'Drawing', 'Isometric']",0.9446982145309448
+104,['cinematicpainting'],"['CinematicPainting', 'FacelessCyborgs', 'SillyCostume']",0.9495262503623962
+105,['cinematicpainting'],"['CinematicPainting', 'FacelessCyborgs', 'Drawing']",0.9671257734298706
+106,['cinematicpainting'],"['CinematicPainting', 'Details', 'VintagePortrait']",0.9419603943824768
+107,['cinematicpainting'],"['CinematicPainting', 'Details', 'FacelessCyborgs']",0.8863938450813293
+108,['cinematicpainting'],"['CinematicPainting', 'FriedEgg', 'VintagePortrait']",0.9147629141807556
+109,['cinematicpainting'],"['CinematicPainting', 'FriedEgg', 'FacelessCyborgs']",0.8642868399620056
+110,['cinematicpainting'],"['CinematicPainting', 'PixarXL', 'SillyCostume']",0.913232147693634
+111,['cinematicpainting'],"['CinematicPainting', 'PixarXL', 'Drawing']",0.9097683429718018
+112,['BJ_Sewing_doll'],"['SewingDoll', 'SillyCostume', 'Federkleid']",0.9726523756980896
+113,['BJ_Sewing_doll'],"['SewingDoll', 'VintagePortrait', 'Federkleid']",0.9671818614006042
+114,['BJ_Sewing_doll'],"['SewingDoll', 'VintagePortrait', 'SillyCostume']",0.9625672101974487
+115,['BJ_Sewing_doll'],"['SewingDoll', 'Isometric', 'Symmetrical']",0.9862418174743652
+116,['BJ_Sewing_doll'],"['SewingDoll', 'Isometric', 'VintagePortrait']",0.9624650478363037
+117,['BJ_Sewing_doll'],"['SewingDoll', 'AirPodsMax', 'Symmetrical']",0.9831175804138184
+118,['BJ_Sewing_doll'],"['SewingDoll', 'Drawing', 'Federkleid']",0.9685540199279785
+119,['BJ_Sewing_doll'],"['SewingDoll', 'Drawing', 'SillyCostume']",0.9690190553665161
+120,['BJ_Sewing_doll'],"['SewingDoll', 'FacelessCyborgs', 'Federkleid']",0.9707998037338257
+121,['BJ_Sewing_doll'],"['SewingDoll', 'FacelessCyborgs', 'Isometric']",0.9672619700431824
+122,['BJ_Sewing_doll'],"['SewingDoll', 'Details', 'Symmetrical']",0.9672858715057373
+123,['BJ_Sewing_doll'],"['SewingDoll', 'Details', 'AirPodsMax']",0.9601757526397705
+124,['BJ_Sewing_doll'],"['SewingDoll', 'FriedEgg', 'Symmetrical']",0.9469196200370789
+125,['BJ_Sewing_doll'],"['SewingDoll', 'FriedEgg', 'AirPodsMax']",0.9593344926834106
+126,['BJ_Sewing_doll'],"['SewingDoll', 'PixarXL', 'Federkleid']",0.9542226791381836
+127,['BJ_Sewing_doll'],"['SewingDoll', 'PixarXL', 'Isometric']",0.9757661819458008
+128,['BJ_Sewing_doll'],"['SewingDoll', 'PixarXL', 'Details']",0.9788085222244263
+129,['BJ_Sewing_doll'],"['SewingDoll', 'CinematicPainting', 'SillyCostume']",0.9448519945144653
+130,['BJ_Sewing_doll'],"['SewingDoll', 'CinematicPainting', 'Drawing']",0.9610379934310913
+131,['BJ_Sewing_doll'],"['SewingDoll', 'CinematicPainting', 'PixarXL']",0.9498754143714905
+132,['symmetrical'],"['Symmetrical', 'SillyCostume', 'Federkleid']",0.8697797656059265
+133,['symmetrical'],"['Symmetrical', 'VintagePortrait', 'SillyCostume']",0.9761400818824768
+134,['symmetrical'],"['Symmetrical', 'Isometric', 'VintagePortrait']",0.9943876266479492
+135,['symmetrical'],"['Symmetrical', 'AirPodsMax', 'VintagePortrait']",0.9876629114151001
+136,['symmetrical'],"['Symmetrical', 'Drawing', 'SillyCostume']",0.9728569984436035
+137,['symmetrical'],"['Symmetrical', 'FacelessCyborgs', 'Federkleid']",0.9884630441665649
+138,['symmetrical'],"['Symmetrical', 'FacelessCyborgs', 'Isometric']",0.9837813973426819
+139,['symmetrical'],"['Symmetrical', 'Details', 'AirPodsMax']",0.9848116636276245
+140,['symmetrical'],"['Symmetrical', 'FriedEgg', 'AirPodsMax']",0.983259916305542
+141,['symmetrical'],"['Symmetrical', 'PixarXL', 'Federkleid']",0.9658724069595337
+142,['symmetrical'],"['Symmetrical', 'PixarXL', 'Isometric']",0.9863551259040833
+143,['symmetrical'],"['Symmetrical', 'PixarXL', 'Details']",0.9848567843437195
+144,['symmetrical'],"['Symmetrical', 'CinematicPainting', 'SillyCostume']",0.9514248371124268
+145,['symmetrical'],"['Symmetrical', 'CinematicPainting', 'Drawing']",0.979715883731842
+146,['symmetrical'],"['Symmetrical', 'CinematicPainting', 'PixarXL']",0.9695519804954529
+147,['Isometric_Setting'],"['Isometric', 'SillyCostume', 'Federkleid']",0.4724428951740265
+148,['Isometric_Setting'],"['Isometric', 'VintagePortrait', 'SillyCostume']",0.9700769782066345
+149,['Isometric_Setting'],"['Isometric', 'AirPodsMax', 'VintagePortrait']",0.9681807160377502
+150,['Isometric_Setting'],"['Isometric', 'Drawing', 'SillyCostume']",0.9817378520965576
+151,['Isometric_Setting'],"['Isometric', 'FacelessCyborgs', 'Federkleid']",0.9343063235282898
+152,['Isometric_Setting'],"['Isometric', 'Details', 'Symmetrical']",0.9544131755828857
+153,['Isometric_Setting'],"['Isometric', 'Details', 'AirPodsMax']",0.9618204832077026
+154,['Isometric_Setting'],"['Isometric', 'FriedEgg', 'Symmetrical']",0.9331454038619995
+155,['Isometric_Setting'],"['Isometric', 'FriedEgg', 'AirPodsMax']",0.9537299871444702
+156,['Isometric_Setting'],"['Isometric', 'PixarXL', 'Federkleid']",0.9378753900527954
+157,['Isometric_Setting'],"['Isometric', 'PixarXL', 'Details']",0.9674550890922546
+158,['Isometric_Setting'],"['Isometric', 'CinematicPainting', 'SillyCostume']",0.9546117186546326
+159,['Isometric_Setting'],"['Isometric', 'CinematicPainting', 'Drawing']",0.918650209903717
+160,['Isometric_Setting'],"['Isometric', 'CinematicPainting', 'PixarXL']",0.9660049676895142
+161,['vintage_p_style'],"['VintagePortrait', 'SillyCostume', 'Federkleid']",0.5095304250717163
+162,['vintage_p_style'],"['VintagePortrait', 'AirPodsMax', 'Symmetrical']",0.963890552520752
+163,['vintage_p_style'],"['VintagePortrait', 'Drawing', 'Federkleid']",0.7675281763076782
+164,['vintage_p_style'],"['VintagePortrait', 'Drawing', 'Isometric']",0.9285995960235596
+165,['vintage_p_style'],"['VintagePortrait', 'FacelessCyborgs', 'SillyCostume']",0.9223947525024414
+166,['vintage_p_style'],"['VintagePortrait', 'FacelessCyborgs', 'Drawing']",0.952251136302948
+167,['vintage_p_style'],"['VintagePortrait', 'Details', 'FacelessCyborgs']",0.7903038263320923
+168,['vintage_p_style'],"['VintagePortrait', 'FriedEgg', 'FacelessCyborgs']",0.9503636360168457
+169,['vintage_p_style'],"['VintagePortrait', 'PixarXL', 'SillyCostume']",0.9040415287017822
+170,['vintage_p_style'],"['VintagePortrait', 'PixarXL', 'Drawing']",0.9296525120735168
+171,['vintage_p_style'],"['VintagePortrait', 'CinematicPainting', 'Federkleid']",0.6123682856559753
+172,['vintage_p_style'],"['VintagePortrait', 'CinematicPainting', 'Isometric']",0.912585437297821
+173,['vintage_p_style'],"['VintagePortrait', 'CinematicPainting', 'Details']",0.9623737931251526
+174,['ral-friedegg'],"['FriedEgg', 'VintagePortrait', 'Federkleid']",0.9614700675010681
+175,['ral-friedegg'],"['FriedEgg', 'Isometric', 'Symmetrical']",0.9728244543075562
+176,['ral-friedegg'],"['FriedEgg', 'AirPodsMax', 'Symmetrical']",0.9871981739997864
+177,['ral-friedegg'],"['FriedEgg', 'Drawing', 'Federkleid']",0.9678484797477722
+178,['ral-friedegg'],"['FriedEgg', 'Drawing', 'Isometric']",0.9927337169647217
+179,['ral-friedegg'],"['FriedEgg', 'FacelessCyborgs', 'SillyCostume']",0.9473991394042969
+180,['ral-friedegg'],"['FriedEgg', 'FacelessCyborgs', 'Drawing']",0.9719622135162354
+181,['ral-friedegg'],"['FriedEgg', 'Details', 'VintagePortrait']",0.9606450200080872
+182,['ral-friedegg'],"['FriedEgg', 'Details', 'FacelessCyborgs']",0.9501132369041443
+183,['ral-friedegg'],"['FriedEgg', 'PixarXL', 'SillyCostume']",0.9515484571456909
+184,['ral-friedegg'],"['FriedEgg', 'PixarXL', 'Drawing']",0.9857771396636963
+185,['ral-friedegg'],"['FriedEgg', 'CinematicPainting', 'Federkleid']",0.9530317783355713
+186,['ral-friedegg'],"['FriedEgg', 'CinematicPainting', 'Isometric']",0.9101016521453857
+187,['ral-friedegg'],"['FriedEgg', 'CinematicPainting', 'Details']",0.9058459997177124
+188,['airpods_max '],"['AirPodsMax', 'VintagePortrait', 'Federkleid']",0.9385467171669006
+189,['airpods_max '],"['AirPodsMax', 'Isometric', 'Symmetrical']",0.9582061767578125
+190,['airpods_max '],"['AirPodsMax', 'Drawing', 'Federkleid']",0.7043492794036865
+191,['airpods_max '],"['AirPodsMax', 'Drawing', 'Isometric']",0.940037727355957
+192,['airpods_max '],"['AirPodsMax', 'FacelessCyborgs', 'SillyCostume']",0.8938021659851074
+193,['airpods_max '],"['AirPodsMax', 'FacelessCyborgs', 'Drawing']",0.921059250831604
+194,['airpods_max '],"['AirPodsMax', 'Details', 'VintagePortrait']",0.8835655450820923
+195,['airpods_max '],"['AirPodsMax', 'Details', 'FacelessCyborgs']",0.642780065536499
+196,['airpods_max '],"['AirPodsMax', 'FriedEgg', 'VintagePortrait']",0.9686028361320496
+197,['airpods_max '],"['AirPodsMax', 'FriedEgg', 'FacelessCyborgs']",0.748475193977356
+198,['airpods_max '],"['AirPodsMax', 'PixarXL', 'SillyCostume']",0.9393728375434875
+199,['airpods_max '],"['AirPodsMax', 'PixarXL', 'Drawing']",0.9484118819236755
+200,['airpods_max '],"['AirPodsMax', 'CinematicPainting', 'Federkleid']",0.8786570429801941
+201,['airpods_max '],"['AirPodsMax', 'CinematicPainting', 'Isometric']",0.9573305249214172
+202,['airpods_max '],"['AirPodsMax', 'CinematicPainting', 'Details']",0.954305112361908
