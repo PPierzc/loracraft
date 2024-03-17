@@ -11,8 +11,6 @@ import wandb
 from loracraft.api import query_runs
 
 
-wandb.login()
-
 with open("../lora_db.json", 'r') as f:
     lora_db = json.load(f)
 
@@ -40,33 +38,34 @@ def run_lora(config):
         adapter_weights=config["weights"][:len(config["loras"])]
     )
 
-    run = wandb.init(
-        entity='ppierzc',
-        project='loracraft',
-        config=config
-    )
+    # run = wandb.init(
+    #     entity='ppierzc',
+    #     project='loracraft',
+    #     config=config
+    # )
 
-    runs = query_runs({
-        "loras": config["loras"],
-        "prompts": config['prompts']
-    })
+    # runs = query_runs({
+    #     "loras": config["loras"],
+    #     "prompts": config['prompts'],
+    #     "version": config["version"]
+    # })
 
-    if len(runs) > 0:
-        print(f"Duplicates found for {config}")
-        return
+    # if len(runs) > 0:
+    #     print(f"Duplicates found for {config}")
+    #     return
 
     os.makedirs(config['images_path'], exist_ok=True)
 
-    for trial in range(config['trials']):
+    for trial in range(10):
         for prompt in config['prompts']:
             image = pipe(
                 prompt=prompt,
                 generator=torch.manual_seed(config['seed']), # Remove
                 **config['pipeline_kwargs']
             ).images[0]
-            save_image(image, config, prompt=prompt, trial=trial, run=run, rank=rank_id)
+            save_image(image, config, prompt=prompt, trial=trial, rank=rank_id)
 
-    run.finish()
+    # run.finish()
 
 
 configs = json.load(open(sys.argv[1]))
